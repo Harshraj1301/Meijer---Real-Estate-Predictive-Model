@@ -1,0 +1,5 @@
+name,address,latitude,longitude,county,Grocery Stores,Food Outlets,Tourist Destinations,Hotels,Educational Institutions,Hospitals,Airports,Residential Housing Density,Commercial Housing Density,Fuel Stations & Car Wash,Apparels,Height Restrictor,Border Zone,Public Transportation,radius_miles
+Meijer,"1251 M-32, Alpena, MI 49707, United States",45.0591468,-83.4746932,Alcona,0,2,0,0,0,0,0,17,5,0,0,0,0,0,1
+Meijer,"100 Pigeon Rd, Bad Axe, MI 48413, United States",43.8256988,-83.0047454,Alcona,0,3,0,0,0,0,0,0,1,0,0,0,0,0,1
+Meijer,"9515 Birch Run Rd, Birch Run, MI 48415, United States",43.2529182,-83.7658004,Alcona,0,8,0,1,0,0,0,0,2,0,0,0,0,0,1
+Meijer,"3360 Tittabawassee Rd, Saginaw, MI 48604, United States",43.4820299,-83.9824788,Alcona,0,19,0,0,0,1,0,0,6,0,0,0,0,0,1

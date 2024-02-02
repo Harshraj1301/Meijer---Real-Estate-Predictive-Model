@@ -1,0 +1,5 @@
+Grocery Stores,Food Outlets,Tourist Destinations,Hotels,Educational Institutions,Hospitals,Airports,Residential Housing Density,Commercial Housing Density,Fuel Stations & Car Wash,Apparels,Height Restrictor,Border Zone,Public Transportation,latitude,longitude,radius_miles
+0,2,0,0,0,0,0,17,5,0,0,0,0,0,45.0591468,-83.4746932,1
+0,3,0,0,0,0,0,0,1,0,0,0,0,0,43.8256988,-83.0047454,1
+0,8,0,1,0,0,0,0,2,0,0,0,0,0,43.2529182,-83.7658004,1
+0,19,0,0,0,1,0,0,6,0,0,0,0,0,43.4820299,-83.9824788,1
