@@ -1,0 +1,494 @@
+name,address,latitude,longitude,county,grocery stores 1 mile,food outlets 1 mile,tourist destinations 1 mile,hotels 1 mile,educational institutions 1 mile,hospitals 1 mile,airports 1 mile,residential housing density 1 mile,commercial housing density 1 mile,fuel stations & car wash 1 mile,apparels 1 mile,height restrictor 1 mile,border zone,public transportation 1 mile,competitor_rating,meijer_rating,meijer_feedback_useful,meijer_sentiment_score,meijer_total_review_count,meijer_positive_sentiment_count,meijer_negative_sentiment_count
+Kum & Go,"4800 44th St SW, Grandville, MI 49418, United States",42.8845946,-85.7813442,Kent,0,5,0,0,0,0,0,12,8,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Kum & Go,"5437 Division Ave S, Wyoming, MI 49548, United States",42.8654298,-85.6646825,Kent,0,2,0,0,0,0,0,0,0,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Kum & Go,"4560 Chicago Dr SW, Grandville, MI 49418, United States",42.9050832,-85.7763133,Kent,0,6,0,1,1,0,0,43,17,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Kum & Go,"2134 Alpine Ave NW, Walker, MI 49544, United States",43.0022577,-85.6881794,Kent,0,3,0,0,0,0,0,7,5,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Kum & Go,"5215 Kalamazoo Ave SE, Kentwood, MI 49508, United States",42.8688229,-85.6257608,Kent,0,1,0,0,0,0,0,6,0,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Casey's,"3781 M-140, Watervliet, MI 49098, United States",42.1801769,-86.2608687,Berrien,0,0,0,0,1,1,1,0,0,0,0,0,0,0,3.63,,,,,,
+Casey's,"10299 Red Arrow Hwy, Bridgman, MI 49106, United States",41.9315417,-86.5696761,Berrien,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3.63,,,,,,
+Casey's,"714 Portage Street, Kalamazoo, MI 49001, United States",42.2845555,-85.5747042,Kalamazoo,0,19,2,0,2,2,1,4,26,0,0,0,0,0,3.45,2.28,67.0,-5.0,40.0,9.0,14.0
+Casey's,"112 S State St, Freeport, MI 49325, United States",42.7660971,-85.3165607,Barry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.81,,,,,,
+Casey's,"10777 Karlin Rd, Buckley, MI 49620, United States",44.5294285,-85.7569481,Grand Traverse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.93,,,,,,
+Casey's,"136 N Whittaker St, New Buffalo, MI 49117, United States",41.7958389,-86.7453501,Berrien,0,12,0,0,2,0,0,76,2,0,0,0,0,0,3.63,,,,,,
+Casey's,"888 S Hill Island Rd, Cedarville, MI 49719, United States",45.9892644,-84.3247284,Mackinac,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.78,,,,,,
+Casey's,"711 Saginaw Rd, Sanford, MI 48657, United States",43.6645948,-84.3404434,Midland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+Casey's,"816 18th St N, Escanaba, MI 49829, United States",45.7551341,-87.0730294,Delta,0,18,0,0,0,0,0,156,11,0,0,0,0,0,4.65,2.11,9.0,-5.0,9.0,1.0,6.0
+Casey's,"628 Huron Ave, Port Huron, MI 48060, United States",42.9811641,-82.4240239,St. Clair,0,9,0,0,1,1,2,0,0,0,0,0,0,0,,3.0,21.0,-2.0,10.0,3.0,5.0
+Casey's,"1003 E West Maple Rd, Walled Lake, MI 48390, United States",42.5380458,-83.4800663,Oakland,0,3,1,0,1,0,0,1,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+Casey's,"16854 Schofield Rd, Hersey, MI 49639, United States",43.8227816,-85.4223191,Osceola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.56,,,,,,
+Casey's,"304 Depot St, Ann Arbor, MI 48104, United States",42.2878595,-83.7443653,Washtenaw,0,90,1,2,6,7,4,174,45,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+Casey's,"18001 Mt Elliott St, Detroit, MI 48234, United States",42.4267281,-83.0389964,Wayne,0,2,0,0,1,0,0,0,3,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Casey's,"14298 Seven Mile E, Detroit, MI 48205, United States",42.4348215,-82.9755327,Wayne,0,4,0,0,1,4,0,7,9,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Casey's,"7677 Dix St, Detroit, MI 48209, United States",42.3168596,-83.1270828,Wayne,0,26,0,0,1,0,0,56,2,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Casey's,"6630 Edwards Rd, Belleville, MI 48111, United States",42.2553571,-83.4807804,Wayne,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Casey's,"1830 Michigan Ave, Detroit, MI 48216, United States",42.3316961,-83.0711125,Wayne,0,37,1,3,1,1,1,164,76,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven - Closed,"650 N Ripley Blvd, Alpena, MI 49707, United States",45.0591322,-83.4523628,Alpena,0,12,0,0,0,0,0,43,6,0,0,0,0,0,4.42,4.89,11.0,-1.0,9.0,4.0,5.0
+7-Eleven,"8570 Homestead Dr, Zeeland, MI 49464, United States",42.8090372,-85.9942724,Ottawa,0,1,0,0,0,1,1,2,5,0,0,0,0,0,,2.7,37.0,-8.0,56.0,16.0,24.0
+7-Eleven,"3726 Mt Olivet Rd, Kalamazoo, MI 49004, United States",42.3275404,-85.5453265,Kalamazoo,0,4,0,0,0,0,0,29,0,0,0,0,0,0,3.45,2.28,67.0,-5.0,40.0,9.0,14.0
+7-Eleven,"5980 US-31, Williamsburg, MI 49690, United States",44.7730458,-85.5004254,Grand Traverse,0,4,0,1,0,0,0,27,0,0,0,0,0,0,3.93,,,,,,
+7-Eleven,"134 N Center Ave, Gaylord, MI 49735, United States",45.0284967,-84.6733967,Otsego,0,10,0,0,1,1,1,0,3,0,0,0,0,0,,3.8,9.0,-2.0,5.0,1.0,3.0
+7-Eleven,"313 S James St, Grayling, MI 49738, United States",44.6576275,-84.7088635,Crawford,0,4,0,0,1,1,1,0,0,0,0,0,0,0,3.65,,,,,,
+7-Eleven,"1795 Barlow St, Traverse City, MI 49686, United States",44.733665,-85.6050532,Grand Traverse,0,7,0,0,0,0,2,25,3,0,0,0,0,0,3.93,,,,,,
+7-Eleven,"538 W Fourteenth St, Traverse City, MI 49684, United States",44.7520016,-85.6325033,Grand Traverse,0,31,1,0,0,2,1,42,30,0,0,0,0,0,3.93,,,,,,
+7-Eleven,"100 Belvedere Ave, Charlevoix, MI 49720, United States",45.3144902,-85.2586169,Charlevoix,0,8,1,0,1,1,1,26,2,0,0,0,0,0,3.74,,,,,,
+7-Eleven,"3543 Old Kawkawlin Rd, Bay City, MI 48706, United States",43.637691,-83.9139085,Bay,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3.65,3.0,5.0,-3.0,17.0,5.0,8.0
+7-Eleven,"801 N Henry St, Bay City, MI 48706, United States",43.6095609,-83.9002608,Bay,0,15,0,0,1,0,0,0,0,0,0,0,0,0,3.65,3.0,5.0,-3.0,17.0,5.0,8.0
+7-Eleven,"101 Woodside Ave, Essexville, MI 48732, United States",43.6091173,-83.8570763,Bay,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3.65,3.0,5.0,-3.0,17.0,5.0,8.0
+7-Eleven,"4300 Wilder Rd, Bay City, MI 48706, United States",43.6230206,-83.8822369,Bay,0,7,0,0,0,0,0,0,0,0,0,0,0,0,3.65,3.0,5.0,-3.0,17.0,5.0,8.0
+7-Eleven,"900 Cass Ave, Bay City, MI 48708, United States",43.5656437,-83.8934035,Bay,0,0,0,0,0,0,1,1,9,0,0,0,0,0,3.65,3.0,5.0,-3.0,17.0,5.0,8.0
+7-Eleven,"2997 Cook Rd, West Branch, MI 48661, United States",44.341442,-84.203018,Ogemaw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.58,,,,,,
+7-Eleven,"1915 S Euclid Ave, Bay City, MI 48706, United States",43.5805681,-83.9153659,Bay,0,4,0,0,0,0,0,0,1,0,0,0,0,0,3.65,3.0,5.0,-3.0,17.0,5.0,8.0
+7-Eleven,"1500 Columbus Ave, Bay City, MI 48708, United States",43.5891638,-83.8758623,Bay,0,10,0,0,1,0,1,1,1,0,0,0,0,0,3.65,3.0,5.0,-3.0,17.0,5.0,8.0
+7-Eleven,"1510 Kosciuszko Ave, Bay City, MI 48708, United States",43.5797876,-83.8817438,Bay,0,4,0,0,0,0,1,2,10,0,0,0,0,0,3.65,3.0,5.0,-3.0,17.0,5.0,8.0
+7-Eleven,"3217 Bay City Rd, Midland, MI 48642, United States",43.605367,-84.1878765,Midland,0,1,0,0,0,0,0,58,25,0,0,0,0,0,,,,,,,
+7-Eleven,"6980 Bay Rd, Saginaw, MI 48604, United States",43.5084599,-83.9721525,Saginaw,0,0,0,0,1,0,0,20,0,0,0,0,0,0,,,,,,,
+7-Eleven,"2900 Airport Rd, Jackson, MI 49202, United States",42.2761622,-84.4540489,Jackson,0,3,0,0,0,0,1,0,5,0,0,0,0,0,3.67,2.37,20.0,-9.0,19.0,2.0,11.0
+7-Eleven,"1997 N Aurelius Rd, Holt, MI 48842, United States",42.6399142,-84.5238084,Ingham,0,1,0,0,1,0,0,14,3,0,0,0,0,0,3.94,2.3,16.0,-1.0,10.0,3.0,4.0
+7-Eleven,"10400 S Clare Ave, Clare, MI 48617, United States",43.8382163,-84.7682301,Clare,0,2,0,2,0,0,0,0,1,0,0,0,0,0,3.33,,,,,,
+7-Eleven,"20690 15 Mile Rd, Clinton Twp, MI 48035, United States",42.5539698,-82.9109273,Macomb,0,1,0,0,1,0,0,10,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"37195 S Groesbeck Hwy, Clinton Twp, MI 48036, United States",42.5722842,-82.9106119,Macomb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"38950 Garfield Rd, Clinton Twp, MI 48038, United States",42.5833621,-82.9511407,Macomb,0,0,0,0,0,0,0,73,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"37335 Harper Ave, Clinton Twp, MI 48036, United States",42.571994,-82.8720305,Macomb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"41110 Hayes Rd, Clinton Twp, MI 48038, United States",42.5980628,-82.9714463,Macomb,0,0,0,0,0,0,0,74,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"18711 15 Mile Rd, Clinton Twp, MI 48035, United States",42.5547183,-82.9295325,Macomb,0,0,0,0,0,0,1,10,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"918 E Grand River Ave #1, East Lansing, MI 48823, United States",42.73167,-84.4716661,Ingham,0,25,3,0,3,0,0,294,9,0,0,0,0,0,3.94,2.3,16.0,-1.0,10.0,3.0,4.0
+7-Eleven,"3013 Lansing Rd, Perry, MI 48872, United States",42.8349682,-84.2201346,Shiawassee,0,4,0,0,0,0,0,1,0,0,0,0,0,0,,2.33,1.0,-3.0,3.0,0.0,3.0
+7-Eleven,"311 Grove St, East Lansing, MI 48823, United States",42.7361267,-84.4824555,Ingham,0,20,3,0,3,0,0,312,6,0,0,0,0,0,3.94,2.3,16.0,-1.0,10.0,3.0,4.0
+7-Eleven,"3500 Okemos Rd, Okemos, MI 48864, United States",42.6833338,-84.4317314,Ingham,0,11,0,0,0,1,0,11,18,0,0,0,0,0,3.94,2.3,16.0,-1.0,10.0,3.0,4.0
+7-Eleven - CLOSED - Closed,"202 E Mitchell St, Petoskey, MI 49770, United States",45.373502,-84.9584908,Emmet,0,15,0,0,2,2,0,18,1,0,0,0,0,0,3.46,,,,,,
+7-Eleven,"8620 Main St, Birch Run, MI 48415, United States",43.2499059,-83.7821562,Saginaw,0,8,0,1,0,0,0,0,2,0,0,0,0,0,,,,,,,
+7-Eleven,"120 W Genesee St, Frankenmuth, MI 48734, United States",43.3362512,-83.7387978,Saginaw,0,5,0,0,1,0,0,7,2,0,0,0,0,0,,,,,,,
+7-Eleven,"7743 Sashabaw Rd, City of the Village of Clarkston, MI 48348, United States",42.7508994,-83.3813595,Oakland,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"3461 Airport Rd, Waterford Twp, MI 48329, United States",42.6882832,-83.4093006,Oakland,0,5,0,0,0,0,0,4,1,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"1179 Baldwin Ave, Pontiac, MI 48340, United States",42.6697444,-83.3008089,Oakland,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"1870 N Milford Rd, Highland Charter Twp, MI 48357, United States",42.6559587,-83.6178423,Oakland,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"2489 Lapeer Rd, Auburn Hills, MI 48326, United States",42.678737,-83.251054,Oakland,0,4,0,0,0,0,0,0,10,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"1069 N Chevrolet Ave, Flint, MI 48504, United States",43.0216277,-83.7224456,Genesee,0,2,0,0,0,2,3,2,1,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+7-Eleven,"2358 Center Rd, Flint, MI 48506, United States",43.042833,-83.635142,Genesee,0,4,0,0,0,0,0,1,6,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+7-Eleven,"3458 Calkins Rd, Flint, MI 48532, United States",43.0179887,-83.751159,Genesee,0,0,0,0,0,1,2,0,1,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+7-Eleven,"1633 W Atherton Rd, Flint, MI 48507, United States",42.9879866,-83.7027931,Genesee,0,4,0,0,0,0,0,0,0,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+7-Eleven,"3302 Dort Hwy, Flint, MI 48507, United States",42.9929024,-83.6540228,Genesee,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+7-Eleven,"130 Perry Rd, Grand Blanc, MI 48439, United States",42.9238701,-83.6245834,Genesee,0,12,0,0,1,0,0,8,0,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+7-Eleven - CLOSED - Closed,"8008 Lapeer Rd, Davison, MI 48423, United States",43.0114239,-83.5548814,Genesee,0,4,0,0,0,0,0,115,0,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+7-Eleven,"2241 E Hill Rd, Grand Blanc, MI 48439, United States",42.9447374,-83.6632723,Genesee,0,8,0,0,0,0,0,0,2,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+7-Eleven - CLOSED - Closed,"9010 Miller Rd, Swartz Creek, MI 48473, United States",42.9573737,-83.8507596,Genesee,0,0,0,0,1,0,0,0,32,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+7-Eleven,"4004 Jefferson Ave, Midland, MI 48640, United States",43.6343614,-84.2265574,Midland,0,2,0,0,0,0,0,7,4,0,0,0,0,0,,,,,,,
+7-Eleven,"2397 S Mission St, Mt Pleasant, MI 48858, United States",43.5758772,-84.766952,Isabella,0,19,1,0,1,0,0,210,13,0,0,0,0,0,,,,,,,
+7-Eleven,"8976 Tittabawassee Rd, Saginaw, MI 48603, United States",43.4817568,-84.0905616,Saginaw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+7-Eleven,"3990 Tittabawassee Rd, Saginaw, MI 48604, United States",43.4808328,-83.9947178,Saginaw,0,4,0,0,0,1,0,0,2,0,0,0,0,0,,,,,,,
+7-Eleven,"3055 Bay Rd, Saginaw, MI 48603, United States",43.4514078,-83.9759809,Saginaw,0,9,0,0,0,0,0,14,5,0,0,0,0,0,,,,,,,
+7-Eleven,"102 E Washington St, St. Louis, MI 48880, United States",43.4074238,-84.6066292,Gratiot,0,1,1,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+7-Eleven,"5770 State St, Saginaw, MI 48603, United States",43.4373162,-84.0300812,Saginaw,0,9,0,0,0,0,0,11,2,0,0,0,0,0,,,,,,,
+7-Eleven,"2032 Bay St, Saginaw, MI 48602, United States",43.4362083,-83.9748836,Saginaw,0,1,0,0,1,0,0,14,2,0,0,0,0,0,,,,,,,
+7-Eleven,"10950 Gratiot Rd, Saginaw, MI 48609, United States",43.4167653,-84.1301735,Saginaw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+7-Eleven,"803 S Wheeler St, Saginaw, MI 48602, United States",43.4084621,-83.991809,Saginaw,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,,,,,,
+7-Eleven,"2726 Weiss St, Saginaw, MI 48602, United States",43.4440901,-83.9764547,Saginaw,0,5,0,0,0,0,0,14,2,0,0,0,0,0,,,,,,,
+7-Eleven,"614 S Washington Ave, Saginaw, MI 48607, United States",43.4273242,-83.9406431,Saginaw,0,1,0,0,1,8,3,5,53,0,0,0,0,0,,,,,,,
+7-Eleven,"7970 Gratiot Rd, Saginaw, MI 48609, United States",43.4163352,-84.070953,Saginaw,0,5,0,0,2,0,0,1,1,0,0,0,0,0,,,,,,,
+7-Eleven,"1826 S Merriman Rd, Westland, MI 48186, United States",42.2960565,-83.3497555,Wayne,0,0,0,0,0,0,0,61,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"31385 Joy Rd, Westland, MI 48185, United States",42.3538615,-83.3511098,Wayne,0,3,0,0,0,0,0,40,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"126 S John Hix Rd, Westland, MI 48186, United States",42.3088066,-83.423701,Wayne,0,0,0,0,0,0,0,165,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"8791 N Wayne Rd, Westland, MI 48185, United States",42.3530867,-83.3866584,Wayne,0,5,2,0,0,0,0,210,7,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"S 970 Wayne Rd, Westland, MI 48186, United States",42.3026949,-83.3890608,Wayne,0,2,0,0,0,0,0,21,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven - Closed,"128 Munson Ave, Traverse City, MI 49686, United States",44.7633613,-85.5876256,Grand Traverse,0,7,0,1,1,1,1,28,25,0,0,0,0,0,3.93,,,,,,
+7-Eleven - Closed,"426 Wright Ave, Alma, MI 48801, United States",43.3798802,-84.6663807,Gratiot,0,2,0,0,2,1,1,1,0,0,0,0,0,0,,,,,,,
+7-Eleven,"304 E Beecher St, Adrian, MI 49221, United States",41.8892056,-84.0333512,Lenawee,0,12,0,0,1,0,0,0,2,0,0,0,0,0,,3.33,5.0,2.0,6.0,4.0,2.0
+7-Eleven,"413 E Huron St, Ann Arbor, MI 48104, United States",42.2815404,-83.7432378,Washtenaw,0,113,1,3,6,7,4,341,54,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+7-Eleven,"22475 Huron River Dr, Rockwood, MI 48173, United States",42.0691995,-83.2516417,Wayne,0,1,0,0,1,0,0,9,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"710 Benstein Rd, Commerce Charter Twp, MI 48390, United States",42.5330928,-83.5013324,Oakland,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"3035 S Commerce Rd, Wolverine Lake, MI 48390, United States",42.5693262,-83.4750549,Oakland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"1 N Williams Lake Rd, White Lake Charter Township, MI 48386, United States",42.6440398,-83.4438523,Oakland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"15270 E 14 Mile Rd, Fraser, MI 48026, United States",42.5380147,-82.9691852,Macomb,0,7,0,0,1,0,0,1,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"35931 26 Mile Rd, Lenox, MI 48048, United States",42.7206814,-82.7495758,Macomb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"11 S Cass Lake Rd, Waterford Twp, MI 48328, United States",42.6389813,-83.3549594,Oakland,0,4,0,0,0,0,0,0,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"33800 23 Mile Rd, Chesterfield Township, MI 48047, United States",42.6752751,-82.7696231,Macomb,0,2,0,0,0,0,0,0,2,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"1795 Scott Lake Rd, Waterford Twp, MI 48328, United States",42.6651667,-83.3474847,Oakland,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"52951 Gratiot Ave, Chesterfield Township, MI 48051, United States",42.688684,-82.8228681,Macomb,0,4,0,1,0,0,0,34,3,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"110 W Commerce Rd, Commerce Charter Twp, MI 48382, United States",42.5916428,-83.4816712,Oakland,0,2,0,0,1,0,2,1,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"1009 Crescent Lake Rd, Waterford Twp, MI 48327, United States",42.6534273,-83.3865026,Oakland,0,7,0,0,0,0,0,0,1,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"2141 N Pontiac Trail, Commerce Charter Twp, MI 48390, United States",42.5508029,-83.4597005,Oakland,0,2,1,0,1,0,0,0,1,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"45100 N Gratiot Ave, Macomb Township, MI 48042, United States",42.6307838,-82.8596946,Macomb,0,3,0,0,0,0,6,0,3,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"8834 Telegraph Rd, Redford Charter Twp, MI 48239, United States",42.3574614,-83.2741332,Wayne,0,6,0,0,0,0,0,6,14,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"35350 Jefferson Ave, Harrison Twp, MI 48045, United States",42.5540373,-82.8535032,Macomb,0,0,0,0,0,0,0,4,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"16570 24 Mile Rd, Macomb Township, MI 48042, United States",42.6858222,-82.9589197,Macomb,0,1,0,0,0,0,0,0,4,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"5979 26 Mile Rd, Washington, MI 48094, United States",42.7137221,-83.054557,Macomb,0,0,0,0,0,0,0,29,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"4100 Haggerty Rd, Commerce Charter Twp, MI 48390, United States",42.5763166,-83.440802,Oakland,0,6,0,0,0,0,0,0,3,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"5020 23 Mile Rd, Shelby Twp, MI 48316, United States",42.6685055,-83.0625114,Macomb,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"15159 22 Mile Rd, Shelby Twp, MI 48315, United States",42.6571694,-82.9750588,Macomb,0,1,0,0,0,0,0,153,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"4705 24 Mile Rd, Shelby Twp, MI 48316, United States",42.6835747,-83.0667844,Macomb,0,1,0,0,0,0,0,0,3,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"34951 Garfield Rd, Fraser, MI 48026, United States",42.5530072,-82.9508599,Macomb,0,4,0,0,0,0,0,0,5,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"49060 Dequindre Rd, Shelby Twp, MI 48317, United States",42.6538275,-83.0918735,Macomb,0,0,0,0,0,0,0,24,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"39725 Van Dyke Ave, Sterling Heights, MI 48313, United States",42.5853485,-83.0314379,Macomb,0,1,0,0,0,0,0,14,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"3909 E 14 Mile Rd, Sterling Heights, MI 48310, United States",42.5359375,-83.0691377,Macomb,0,5,0,0,1,1,0,37,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"55015 Van Dyke Ave, Shelby Twp, MI 48316, United States",42.6988372,-83.0351968,Macomb,0,3,0,0,0,0,0,23,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"4191 15 Mile Rd, Sterling Heights, MI 48310, United States",42.5506414,-83.0672197,Macomb,0,7,0,0,0,1,0,76,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"43030 Schoenherr Rd, Sterling Heights, MI 48313, United States",42.6109497,-82.9914393,Macomb,0,6,0,0,0,0,0,8,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"35355 Grand River Ave, Farmington, MI 48335, United States",42.468813,-83.3957246,Oakland,0,6,1,0,1,0,0,217,19,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"805 E 9 Mile Rd, Ferndale, MI 48220, United States",42.4612576,-83.1228059,Oakland,0,43,0,0,2,0,0,23,34,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"17895 Twelve Mile Rd, Roseville, MI 48066, United States",42.5100512,-82.9368476,Macomb,0,3,0,0,0,0,0,49,8,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"4264 Orchard Lake Rd, West Bloomfield Township, MI 48323, United States",42.5755312,-83.3627018,Oakland,0,7,5,0,0,0,0,0,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"48989 Romeo Plank Rd, Macomb Township, MI 48044, United States",42.6569887,-82.9380136,Macomb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"11650 15 Mile Rd, Sterling Heights, MI 48312, United States",42.5512351,-83.0090157,Macomb,0,5,0,0,0,0,0,6,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"27435 W Seven Mile Rd, Livonia, MI 48152, United States",42.427126,-83.3167915,Wayne,0,4,0,0,0,0,0,18,3,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"23012 Schoenherr Rd, Warren, MI 48089, United States",42.4641882,-82.9855822,Macomb,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"16761 21 Mile Rd, Macomb Township, MI 48044, United States",42.6426063,-82.955247,Macomb,0,4,0,0,0,0,0,19,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"13555 Twelve Mile Rd, Warren, MI 48093, United States",42.5080567,-82.9879355,Macomb,0,2,0,0,1,1,1,55,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"31040 Gratiot Ave, Roseville, MI 48066, United States",42.5251644,-82.9176736,Macomb,0,12,0,0,0,0,0,29,20,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"4880 E 9 Mile Rd, Warren, MI 48091, United States",42.4617021,-83.0550361,Macomb,0,1,0,0,0,0,0,2,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"42950 Dequindre Rd, Sterling Heights, MI 48314, United States",42.6070508,-83.0901112,Macomb,0,1,0,0,0,1,1,2,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"815 W Eleven Mile Rd, Madison Heights, MI 48071, United States",42.4903646,-83.1139381,Oakland,0,5,0,0,0,0,0,7,11,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"43129 Van Dyke Ave, Sterling Heights, MI 48314, United States",42.6106486,-83.0322672,Macomb,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"3100 Highland Rd, Howell, MI 48843, United States",42.6237342,-83.9767781,Livingston,0,2,0,1,0,0,2,24,3,0,0,0,0,0,,2.13,16.0,-3.0,30.0,6.0,9.0
+7-Eleven,"45490 Michigan Ave, Canton, MI 48188, United States",42.2726968,-83.4866912,Wayne,0,4,0,0,0,0,0,78,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"9290 Lee Rd, Brighton, MI 48116, United States",42.5067235,-83.7633594,Livingston,0,5,0,0,0,0,0,0,8,0,0,0,0,0,,2.13,16.0,-3.0,30.0,6.0,9.0
+7-Eleven,"11501 Grand River Ave, Brighton, MI 48116, United States",42.5160644,-83.7197475,Livingston,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2.13,16.0,-3.0,30.0,6.0,9.0
+7-Eleven,"15550 Middlebelt Rd, Livonia, MI 48154, United States",42.4006804,-83.3340775,Wayne,0,7,0,0,0,0,0,9,1,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"29351 Northline Rd, Romulus, MI 48174, United States",42.2093138,-83.3259553,Wayne,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"19022 Allen Rd, Brownstown Charter Twp, MI 48183, United States",42.1691976,-83.2278747,Wayne,0,0,0,0,0,0,0,45,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"14850 Telegraph Rd, Taylor, MI 48180, United States",42.1979499,-83.268831,Wayne,0,9,0,0,0,0,0,93,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"4429 Breton Rd SE, Grand Rapids, MI 49508, United States",42.8828246,-85.6068903,Kent,0,5,0,0,2,0,0,15,3,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+7-Eleven,"1349 Alpine Ave NW, Grand Rapids, MI 49504, United States",42.988748,-85.6886181,Kent,0,7,0,0,1,0,0,7,5,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+7-Eleven,"888 Forest Hill Ave SE, Grand Rapids, MI 49546, United States",42.946616,-85.5552892,Kent,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+7-Eleven,"1253 Burton St SW, Wyoming, MI 49509, United States",42.9284817,-85.6983364,Kent,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+7-Eleven,"2356 Porter St SW, Wyoming, MI 49519, United States",42.9209197,-85.7247029,Kent,0,0,0,0,0,0,0,1,2,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+7-Eleven,"3009 Walton Blvd., Auburn Hills, MI 48326, United States",42.6793129,-83.230233,Oakland,0,18,0,0,2,0,0,28,7,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"35872 Utica Rd, Clinton Twp, MI 48035, United States",42.560141,-82.9639572,Macomb,0,4,0,0,0,0,0,0,4,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"36945 Mound Rd, Sterling Heights, MI 48310, United States",42.5646324,-83.0498554,Macomb,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"43017 Mound Rd, Sterling Heights, MI 48314, United States",42.6095123,-83.0521629,Macomb,0,3,0,0,0,0,0,16,2,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"13805 Plumbrook Rd, Sterling Heights, MI 48312, United States",42.5747848,-82.988203,Macomb,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"25005 Groesbeck Hwy, Warren, MI 48089, United States",42.4792069,-82.9808374,Macomb,0,0,0,0,0,0,0,11,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"28991 Groesbeck Hwy, Roseville, MI 48066, United States",42.508749,-82.9587266,Macomb,0,3,0,0,1,0,0,46,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"18700 E 10 Mile Rd, Eastpointe, MI 48021, United States",42.4797927,-82.926549,Macomb,0,2,0,0,0,0,0,33,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"14971 E 10 Mile Rd, Warren, MI 48089, United States",42.4798206,-82.9677575,Macomb,0,1,0,0,0,0,0,11,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"17750 Frazho Rd, Roseville, MI 48066, United States",42.4870286,-82.9387815,Macomb,0,2,0,0,0,0,0,40,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"5801 E 10 Mile Rd, Warren, MI 48091, United States",42.4775149,-83.0465282,Macomb,0,0,0,0,1,0,0,90,3,0,0,1,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"25700 Jefferson Ave, St Clair Shores, MI 48081, United States",42.4807456,-82.888806,Macomb,0,0,0,0,0,0,0,10,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"23019 Jefferson Ave, St Clair Shores, MI 48080, United States",42.4603397,-82.8824212,Macomb,0,1,1,0,0,0,0,10,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"28007 Gratiot Ave, Roseville, MI 48066, United States",42.5026973,-82.9341454,Macomb,0,4,0,0,0,0,0,13,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"38301 Dodge Park Rd, Sterling Heights, MI 48312, United States",42.575737,-83.011066,Macomb,0,0,0,0,1,0,0,4,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"27010 Dequindre Rd, Warren, MI 48092, United States",42.4911898,-83.084579,Macomb,0,5,0,0,0,1,0,24,12,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"24012 Van Dyke Ave, Center Line, MI 48015, United States",42.4704961,-83.0264698,Macomb,0,4,0,0,2,0,1,50,5,0,0,1,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"21701 Harper Ave, St Clair Shores, MI 48080, United States",42.4554896,-82.9130343,Macomb,0,1,0,0,0,0,0,29,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"11575 E Thirteen Mile Rd, Warren, MI 48093, United States",42.5218424,-83.0084982,Macomb,0,6,0,0,0,0,0,18,8,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"2910 John R Rd, Troy, MI 48083, United States",42.5622403,-83.1075632,Oakland,0,3,0,0,0,0,0,26,1,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"27630 Little Mack Ave, St Clair Shores, MI 48081, United States",42.4951132,-82.9071393,Macomb,0,0,0,0,1,0,0,2,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"15003 E 9 Mile Rd, Eastpointe, MI 48021, United States",42.4651984,-82.967063,Macomb,0,3,0,0,0,0,0,1,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"32200 Harper Ave, St Clair Shores, MI 48082, United States",42.531985,-82.8880491,Macomb,0,4,0,0,0,0,0,0,3,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"26951 Hoover Rd, Warren, MI 48089, United States",42.4913723,-83.0071095,Macomb,0,1,0,0,0,1,1,72,3,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"29265 Dequindre Rd, Madison Heights, MI 48071, United States",42.5075139,-83.0862566,Oakland,0,9,0,0,0,3,0,12,4,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"18716 Masonic, Roseville, MI 48066, United States",42.5315487,-82.9288631,Macomb,0,10,0,0,0,0,1,40,17,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+7-Eleven,"14495 Laplaisance Rd, Monroe, MI 48161, United States",41.8815178,-83.3956826,Monroe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+7-Eleven,"1100 W Hackley Ave, Muskegon, MI 49441, United States",43.2128059,-86.2706452,Muskegon,0,11,0,0,0,0,0,36,18,0,0,0,0,0,,2.65,12.0,-3.0,30.0,8.0,11.0
+7-Eleven,"1620 E Thirteen Mile Rd, Royal Oak, MI 48073, United States",42.5190375,-83.1262457,Oakland,0,6,0,6,1,1,0,60,6,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"3563 Twelve Mile Rd, Berkley, MI 48072, United States",42.5027183,-83.1957122,Oakland,0,16,0,0,1,7,1,37,4,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"1650 Crooks Rd, Troy, MI 48084, United States",42.5486109,-83.1661162,Oakland,0,25,0,0,0,0,2,302,25,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"29318 Orchard Lake Rd, Farmington Hills, MI 48334, United States",42.5129149,-83.3586564,Oakland,0,18,1,0,0,0,1,62,40,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"3380 Greenfield Rd, Royal Oak, MI 48073, United States",42.5171809,-83.2032535,Oakland,0,7,0,0,0,7,1,57,48,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"4623 Crooks Rd, Royal Oak, MI 48073, United States",42.5318668,-83.1660459,Oakland,0,13,0,0,0,0,2,224,3,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"3982 Crooks Rd, Troy, MI 48084, United States",42.5764877,-83.1674535,Oakland,0,11,0,2,0,0,0,62,5,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"2891 Crooks Rd, Troy, MI 48084, United States",42.5602663,-83.1677996,Oakland,0,36,0,3,1,1,0,239,32,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"1040 W Nine Mile Rd, Ferndale, MI 48220, United States",42.4606124,-83.1474636,Oakland,0,39,0,0,2,0,0,42,20,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"7 N Rochester Rd, Clawson, MI 48017, United States",42.5341132,-83.1363014,Oakland,0,22,0,8,1,0,0,45,1,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"27375 W Eleven Mile Rd, Southfield, MI 48033, United States",42.4851455,-83.3183628,Oakland,0,0,0,0,0,0,0,28,12,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"26641 Coolidge Hwy, Oak Park, MI 48237, United States",42.4875601,-83.1838402,Oakland,0,5,0,0,2,0,0,24,18,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"15350 Lincoln St, Oak Park, MI 48237, United States",42.4814484,-83.2008619,Oakland,0,1,0,0,0,0,0,60,4,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"2668 S Rochester Rd, Rochester Hills, MI 48307, United States",42.6415156,-83.132691,Oakland,0,12,0,0,0,0,0,1,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"22323 Middlebelt Rd, Farmington Hills, MI 48336, United States",42.4556977,-83.3375423,Oakland,0,5,0,0,0,14,2,26,40,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"31752 John R Rd, Madison Heights, MI 48071, United States",42.5269875,-83.1062306,Oakland,0,17,0,9,1,1,0,89,7,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"27015 Lahser Rd, Southfield, MI 48034, United States",42.4873478,-83.261828,Oakland,0,0,0,0,0,0,1,8,4,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"5020 John R Rd, Troy, MI 48085, United States",42.5929477,-83.1090395,Oakland,0,3,0,0,0,0,0,0,1,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"3305 N Main St, Royal Oak, MI 48073, United States",42.519463,-83.1458881,Oakland,0,15,0,0,0,0,0,61,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"22069 Farmington Rd, Farmington Hills, MI 48336, United States",42.4543497,-83.3763349,Oakland,0,16,0,0,1,0,0,135,65,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"29321 Eight Mile Rd, Livonia, MI 48152, United States",42.4410804,-83.3359158,Wayne,0,6,0,0,0,14,2,30,14,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"1121 N Campbell Rd, Royal Oak, MI 48067, United States",42.5001975,-83.1253493,Oakland,0,5,0,0,0,0,0,19,5,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"24111 Meadowbrook Rd, Novi, MI 48375, United States",42.4664911,-83.455726,Oakland,0,10,0,0,0,0,0,118,14,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+7-Eleven,"9479 Newburgh Rd, Livonia, MI 48150, United States",42.3611413,-83.4115675,Wayne,0,4,1,0,0,0,0,88,3,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"5220 Anthony Wayne Dr, Detroit, MI 48202, United States",42.356016,-83.0724746,Wayne,0,42,1,3,8,17,1,372,49,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"1524 10th St, Port Huron, MI 48060, United States",42.967526,-82.4319891,St. Clair,0,5,0,0,1,0,1,0,1,0,0,0,0,0,,3.0,21.0,-2.0,10.0,3.0,5.0
+7-Eleven,"1422 24th St, Port Huron, MI 48060, United States",42.9679234,-82.4520143,St. Clair,0,5,0,0,0,0,0,0,1,0,0,0,0,0,,3.0,21.0,-2.0,10.0,3.0,5.0
+7-Eleven,"5034 W Kl Ave, Kalamazoo, MI 49009, United States",42.278717,-85.649108,Kalamazoo,0,11,0,0,0,0,0,431,6,0,0,0,0,0,3.45,2.28,67.0,-5.0,40.0,9.0,14.0
+7-Eleven,"2627 W Michigan Ave, Kalamazoo, MI 49006, United States",42.2811211,-85.6221928,Kalamazoo,0,8,0,0,5,0,0,206,3,0,0,0,0,0,3.45,2.28,67.0,-5.0,40.0,9.0,14.0
+7-Eleven,"2200 Ellsworth Rd, Ypsilanti, MI 48197, United States",42.2308942,-83.6447847,Washtenaw,0,2,0,0,0,0,0,29,1,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+7-Eleven,"704 S Main St, Ann Arbor, MI 48104, United States",42.2725032,-83.7498352,Washtenaw,0,107,6,2,5,0,0,337,55,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+7-Eleven,"318 S State St, Ann Arbor, MI 48104, United States",42.2786837,-83.7411423,Washtenaw,0,114,5,3,6,7,4,351,56,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+7-Eleven,"1300 S University Ave, Ann Arbor, MI 48104, United States",42.2746715,-83.732968,Washtenaw,0,109,5,3,6,7,4,284,44,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+7-Eleven,"6040 Rawsonville Rd, Belleville, MI 48111, United States",42.2031076,-83.5439286,Washtenaw,0,3,0,0,0,0,0,0,1,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+7-Eleven,"7171 N Canton Center Rd, Canton, MI 48187, United States",42.3360467,-83.4892087,Wayne,0,7,0,0,0,0,0,49,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"31403 Michigan Ave, Wayne, MI 48184, United States",42.2847261,-83.3491554,Wayne,0,0,0,0,0,0,0,109,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"33920 Van Born Rd, Wayne, MI 48184, United States",42.2673422,-83.3725532,Wayne,0,1,0,0,0,1,0,112,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"32324 Annapolis St, Wayne, MI 48184, United States",42.2748322,-83.3570111,Wayne,0,0,0,0,0,1,0,115,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"160 S Venoy Rd, Westland, MI 48186, United States",42.3093651,-83.3648835,Wayne,0,1,0,0,0,0,0,40,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"39390 Ecorse Rd, Romulus, MI 48174, United States",42.2501,-83.4247893,Wayne,0,0,0,0,0,0,0,0,10,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"26900 Allen Rd, Woodhaven, MI 48183, United States",42.1120085,-83.2256645,Wayne,0,1,0,0,0,1,1,152,0,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"2250 Merriman Rd, Garden City, MI 48135, United States",42.3244907,-83.3499084,Wayne,0,2,0,0,2,0,0,31,2,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"2842 Grange Rd, Trenton, MI 48183, United States",42.1401845,-83.2120695,Wayne,0,19,0,0,1,0,0,58,7,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"27350 Schoolcraft Rd, Redford Charter Twp, MI 48239, United States",42.3848359,-83.3137322,Wayne,0,4,0,0,0,0,0,6,36,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"3833 Dix Hwy, Lincoln Park, MI 48146, United States",42.2287292,-83.1940557,Wayne,0,7,0,0,0,0,0,72,1,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"20945 Ecorse Rd, Taylor, MI 48180, United States",42.2557909,-83.2414209,Wayne,0,1,0,0,0,0,0,7,3,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"29331 Warren Rd, Garden City, MI 48135, United States",42.339727,-83.3309956,Wayne,0,5,0,0,0,1,1,88,1,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"1365 Dix Hwy, Lincoln Park, MI 48146, United States",42.2623729,-83.1867692,Wayne,0,6,0,0,1,0,0,34,1,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"2660 Jefferson Ave, Detroit, MI 48207, United States",42.3383738,-83.0215144,Wayne,0,10,1,1,1,0,0,121,48,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"22027 Van Born Rd, Taylor, MI 48180, United States",42.2689039,-83.2508968,Wayne,0,2,0,0,0,0,0,0,11,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"2600 S Telegraph Rd, Dearborn, MI 48124, United States",42.2930732,-83.27205,Wayne,0,10,0,1,0,0,0,43,13,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"43340 Warren Rd, Canton, MI 48187, United States",42.3372059,-83.4685795,Wayne,0,5,0,0,0,0,2,223,3,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"1140 Ford Ave, Wyandotte, MI 48192, United States",42.214207,-83.1671408,Wayne,0,7,0,0,0,1,0,93,10,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"14515 Northline Rd, Southgate, MI 48195, United States",42.2132858,-83.2006138,Wayne,0,12,0,0,1,0,0,84,4,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"5697 Pelham St, Dearborn Heights, MI 48125, United States",42.2705893,-83.2313196,Wayne,0,1,0,0,0,0,0,2,6,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"1010 Southfield Rd, Lincoln Park, MI 48146, United States",42.2488379,-83.1712752,Wayne,0,7,0,0,1,1,0,20,7,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"22611 Northline Rd, Taylor, MI 48180, United States",42.2116396,-83.2545525,Wayne,0,7,0,2,1,0,0,91,1,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"3850 Monroe St, Dearborn, MI 48124, United States",42.2825198,-83.2514871,Wayne,0,6,0,0,0,0,0,7,18,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"14426 Pennsylvania Rd, Southgate, MI 48195, United States",42.1850784,-83.1981785,Wayne,0,7,0,0,2,0,0,117,1,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"3307 Greenfield Rd, Dearborn, MI 48120, United States",42.3058627,-83.1883577,Wayne,0,4,0,0,1,0,0,101,18,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"13913 Eureka Rd, Southgate, MI 48195, United States",42.1989107,-83.1936827,Wayne,0,22,0,0,1,1,0,52,7,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"139 Cadillac Square, Detroit, MI 48226, United States",42.3318464,-83.0436249,Wayne,0,102,5,7,3,0,1,137,155,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"27150 Cherry Hill Rd, Dearborn Heights, MI 48127, United States",42.3121682,-83.307964,Wayne,0,1,0,0,0,0,0,61,1,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"28205 Ford Rd, Garden City, MI 48135, United States",42.3255409,-83.3190936,Wayne,0,7,0,0,1,1,1,55,3,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"12990 Fort St, Southgate, MI 48195, United States",42.2141917,-83.1815433,Wayne,0,13,0,0,0,0,0,83,8,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"18210 Allen Rd, Melvindale, MI 48122, United States",42.2829714,-83.1862519,Wayne,0,6,0,1,1,0,0,55,8,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"31430 Plymouth Rd, Livonia, MI 48150, United States",42.3691197,-83.3530469,Wayne,0,8,0,0,1,0,0,10,28,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+7-Eleven,"8988 Middlebelt Rd, Livonia, MI 48150, United States",42.356417,-83.3319401,Wayne,0,6,0,0,0,0,0,70,17,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Circle K,"13401 US-41, Champion, MI 49814, United States",46.4970758,-87.9183563,Marquette,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,4.22,2.0,1.0,9.0,5.0,4.0
+Circle K,"5095 US-41, Marquette, MI 49855, United States",46.4881961,-87.3501899,Marquette,0,3,0,0,0,0,1,1,6,0,0,0,0,0,,4.22,2.0,1.0,9.0,5.0,4.0
+Circle K,"1329 M-89, Plainwell, MI 49080, United States",42.4506067,-85.6739672,Allegan,0,3,0,0,1,0,1,16,3,0,0,0,0,0,3.58,,,,,,
+Circle K,"8205 N 32nd St, Richland, MI 49083, United States",42.3792024,-85.4555592,Kalamazoo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3.45,2.28,67.0,-5.0,40.0,9.0,14.0
+Circle K,"5133 Alpine Ave NW, Comstock Park, MI 49321, United States",43.0569647,-85.6912966,Kent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Circle K,"2700 N Dixie Hwy, Monroe, MI 48162, United States",41.9375389,-83.3270063,Monroe,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,,,,,,
+Circle K,"514 Michigan St NE, Grand Rapids, MI 49503, United States",42.9697664,-85.6565125,Kent,0,57,0,2,1,17,5,66,29,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Circle K,"2 Cole Rd, Monroe, MI 48162, United States",41.9345278,-83.3893207,Monroe,0,6,0,0,0,1,1,0,3,0,0,0,0,0,,,,,,,
+Circle K,"21860 West Rd, Woodhaven, MI 48183, United States",42.138854,-83.245611,Wayne,0,12,0,0,0,1,0,201,2,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Circle K,"4443 M-30, West Branch, MI 48661, United States",44.2076225,-84.2668218,Ogemaw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.58,,,,,,
+Circle K,"6851 Broadmoor Ave SE, Caledonia, MI 49316, United States",42.8398785,-85.531544,Kent,0,2,0,0,0,0,0,6,20,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Circle K,"221 E Columbia Ave, Battle Creek, MI 49015, United States",42.2988803,-85.1899775,Calhoun,0,2,0,0,0,0,0,21,2,0,0,0,0,0,3.73,3.2,21.0,-2.0,20.0,6.0,8.0
+Circle K,"4921 S Sprinkle Rd, Comstock, MI 49041, United States",42.2454687,-85.5304492,Kalamazoo,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3.45,2.28,67.0,-5.0,40.0,9.0,14.0
+Circle K,"1615 E Genesee Ave, Saginaw, MI 48601, United States",43.4198124,-83.9256409,Saginaw,0,0,0,0,1,2,1,4,25,0,0,0,0,0,,,,,,,
+Circle K,"4300 James Savage Rd, Midland, MI 48642, United States",43.6105387,-84.1744284,Midland,0,1,0,1,0,0,0,62,13,0,0,0,0,0,,,,,,,
+Circle K,"2035 E Winn Rd, Niles, MI 49120, United States",41.871313,-86.299,Berrien,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.63,,,,,,
+Circle K,"1800 W Milham Ave, Portage, MI 49024, United States",42.2305007,-85.6100329,Kalamazoo,0,1,0,0,0,0,0,32,2,0,0,0,0,0,3.45,2.28,67.0,-5.0,40.0,9.0,14.0
+Circle K,"4117 Portage Street, Kalamazoo, MI 49001, United States",42.2496668,-85.5596217,Kalamazoo,0,5,0,1,0,0,3,25,1,0,0,0,0,0,3.45,2.28,67.0,-5.0,40.0,9.0,14.0
+Circle K,"4914 S Sprinkle Rd, Kalamazoo, MI 49001, United States",42.245175,-85.5304554,Kalamazoo,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3.45,2.28,67.0,-5.0,40.0,9.0,14.0
+Circle K,"4811 W River Dr NE, Comstock Park, MI 49321, United States",43.0510202,-85.6533698,Kent,0,3,0,0,0,0,0,0,7,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Circle K,"5495 W Michigan Ave, Ypsilanti, MI 48197, United States",42.208389,-83.679023,Washtenaw,0,1,0,0,0,0,0,85,1,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+Circle K,"528 E Clark Rd, Ypsilanti, MI 48198, United States",42.2607092,-83.6026435,Washtenaw,0,1,0,0,0,0,0,22,1,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+Circle K,"35130 23 Mile Rd, New Baltimore, MI 48047, United States",42.6758081,-82.7540903,Macomb,0,1,0,0,0,0,1,1,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+Circle K,"540 Goddard Rd, Wyandotte, MI 48192, United States",42.2239292,-83.1576996,Wayne,0,6,0,0,0,0,0,72,3,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Circle K,"12705 Pennsylvania Rd, Riverview, MI 48192, United States",42.1847932,-83.1799383,Wayne,0,7,0,0,0,1,0,54,6,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Circle K,"1031 S Main St, Cheboygan, MI 49721, United States",45.6281129,-84.4781093,Cheboygan,0,4,0,0,0,0,1,1,14,0,0,0,0,0,,,,,,,
+Circle K,"8596 W 19 Mile Rd, Rudyard, MI 49780, United States",46.2305224,-84.5439104,Chippewa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.92,,,,,,
+Circle K,"1330 Monroe St, Carleton, MI 48117, United States",42.059287,-83.392907,Monroe,0,2,0,0,1,0,0,0,0,0,0,0,0,0,,,,,,,
+Circle K,"8069 22 Mile Rd, Shelby Twp, MI 48317, United States",42.6554085,-83.032795,Macomb,0,3,0,0,0,0,0,33,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+Circle K,"23890 Northline Rd, Taylor, MI 48180, United States",42.2126344,-83.2679056,Wayne,0,3,0,0,1,0,0,109,1,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Circle K,"1248 E Beeler Rd, Moorestown, MI 49651, United States",44.3227036,-85.0699635,Missaukee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.55,,,,,,
+Circle K,"7920 Osborn Rd, Carson City, MI 48811, United States",43.1826232,-84.7981615,Gratiot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+Circle K,"27248 Van Dyke Ave, Warren, MI 48093, United States",42.4939868,-83.027142,Macomb,0,5,0,0,1,0,0,61,0,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+Circle K,"1420 E Stadium Blvd, Ann Arbor, MI 48104, United States",42.260417,-83.730209,Washtenaw,0,19,3,0,0,0,0,190,47,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+Circle K,"1879 N Lapeer Rd, Lapeer, MI 48446, United States",43.0838546,-83.3084966,Lapeer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+Circle K,"12800 Hamilton Ave, Highland Park, MI 48203, United States",42.3966132,-83.1018933,Wayne,0,2,0,1,0,0,0,110,23,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Circle K,"25350 Michigan Ave, Dearborn, MI 48124, United States",42.2980167,-83.2853154,Wayne,0,7,0,1,0,0,0,52,4,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Meijer,"1251 M-32, Alpena, MI 49707, United States",45.0591468,-83.4746932,Alcona,0,2,0,0,0,0,0,17,5,0,0,0,0,0,3.76,,,,,,
+Meijer,"100 Pigeon Rd, Bad Axe, MI 48413, United States",43.8256988,-83.0047454,Alcona,0,3,0,0,0,0,0,0,1,0,0,0,0,0,3.76,,,,,,
+Meijer,"9515 Birch Run Rd, Birch Run, MI 48415, United States",43.2529182,-83.7658004,Alcona,0,8,0,1,0,0,0,0,2,0,0,0,0,0,3.76,,,,,,
+Meijer,"3360 Tittabawassee Rd, Saginaw, MI 48604, United States",43.4820299,-83.9824788,Alcona,0,19,0,0,0,1,0,0,6,0,0,0,0,0,3.76,,,,,,
+Meijer Express Gas Station,"1241 M-32, Alpena, MI 49707, United States",45.0611621,-83.4746063,Alcona,0,2,0,0,0,0,0,16,5,0,0,0,0,0,3.76,,,,,,
+Meijer,"7300 Eastman Ave, Midland, MI 48642, United States",43.66317,-84.2431904,Alcona,0,13,0,2,0,0,2,3,17,0,0,0,0,0,3.76,,,,,,
+Meijer,"3955 US-31, Traverse City, MI 49684, United States",44.7431122,-85.6445616,Alcona,0,11,1,0,0,1,0,34,1,0,0,0,0,0,3.76,,,,,,
+Meijer,"3630 US-41 West, Marquette, MI 49855, United States",46.5530229,-87.4717557,Alger,0,7,0,0,0,0,0,9,10,0,0,0,0,0,4.3,,,,,,
+Meijer,"505 N 26th St, Escanaba, MI 49829, United States",45.7514114,-87.0866699,Alger,0,13,0,0,0,1,1,134,8,0,0,0,0,0,4.3,,,,,,
+Meijer,"1201 Lears Rd, Petoskey, MI 49770, United States",45.3469047,-84.9648513,Alger,0,3,1,0,0,0,0,45,4,0,0,0,0,0,4.3,,,,,,
+Meijer,"3691 M-55, West Branch, MI 48661, United States",44.2742424,-84.2742614,Alger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3,,,,,,
+Meijer Express Gas Station,"3730 US-41, Marquette, MI 49855, United States",46.5487136,-87.4747672,Alger,0,2,0,0,0,0,0,0,7,0,0,0,0,0,4.3,,,,,,
+Meijer Express Gas Station,"2600 3rd Ave N, Escanaba, MI 49829, United States",45.7492853,-87.0854277,Alger,0,15,0,0,0,1,1,35,8,0,0,0,0,0,4.3,,,,,,
+Meijer,"800 US-131, Three Rivers, MI 49093, United States",41.9339359,-85.6544184,Alger,0,3,0,0,0,1,1,16,13,0,0,0,0,0,4.3,,,,,,
+Meijer,"5300 Harvey St, Muskegon, MI 49444, United States",43.1564924,-86.2032498,Alger,0,12,0,0,0,0,0,0,18,0,0,0,0,0,4.3,,,,,,
+Meijer,"1540 28th St SE, Grand Rapids, MI 49508, United States",42.9109204,-85.62924,Alger,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4.3,,,,,,
+Meijer,"315 Wilson Ave NW, Grand Rapids, MI 49534, United States",42.969937,-85.7786065,Alger,0,12,0,0,0,0,0,33,6,0,0,0,0,0,4.3,,,,,,
+Meijer,"3825 Carpenter Rd, Ypsilanti, MI 48197, United States",42.2340066,-83.6770729,Alger,0,9,0,0,0,0,0,51,13,0,0,0,0,0,4.3,,,,,,
+Meijer,"28800 Telegraph Rd, Southfield, MI 48034, United States",42.5001128,-83.2823578,Alger,0,7,0,0,0,0,0,139,13,0,0,0,0,0,4.3,,,,,,
+Meijer,"21431 Grand River Ave, Detroit, MI 48219, United States",42.4122461,-83.2528348,Alger,0,6,0,0,1,0,0,188,48,0,0,0,0,0,4.3,,,,,,
+Meijer,"1301 Eight Mile Rd, Detroit, MI 48203, United States",42.4446792,-83.1192245,Alger,0,4,0,0,0,0,0,8,21,0,0,0,0,0,4.3,,,,,,
+Meijer Express Gas Station,"7420 N Alger Rd, Alma, MI 48801, United States",43.3989601,-84.6662143,Alger,0,4,0,0,0,1,1,0,0,0,0,0,0,0,4.3,,,,,,
+Meijer,"3565 Fairlane Dr, Allen Park, MI 48101, United States",42.2789819,-83.2040801,Alger,0,11,0,1,1,1,1,41,1,0,0,0,0,0,4.3,,,,,,
+Meijer Express Gas Station,"2141 US-131, Petoskey, MI 49770, United States",45.3459991,-84.9670953,Alger,0,3,0,0,0,0,0,45,4,0,0,0,0,0,4.3,,,,,,
+Meijer,"1195 M-89, Plainwell, MI 49080, United States",42.4523698,-85.6601861,Allegan,0,5,0,0,0,1,1,17,5,0,0,0,0,0,3.58,,,,,,
+Meijer,"4900 M-72, Williamsburg, MI 49690, United States",44.7708506,-85.4771958,Antrim,0,1,0,1,0,0,0,23,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"4900 M-72, Williamsburg, MI 49690, United States",44.7708506,-85.4771958,Antrim,0,1,0,1,0,0,0,23,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"4900 M-72 E, Williamsburg, MI 49690, United States",44.7708506,-85.4771958,Antrim,0,1,0,1,0,0,0,23,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"4900 M-72 E, Williamsburg, MI 49690, United States",44.7708506,-85.4771958,Antrim,0,1,0,1,0,0,0,23,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"250 Meijer Dr, Gaylord, MI 49735, United States",45.0249741,-84.7233385,Antrim,0,3,0,0,0,0,1,0,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"8605 34 Rd, Cadillac, MI 49601, United States",44.2837106,-85.4050028,Antrim,0,4,0,0,0,0,1,0,1,0,0,0,0,0,3.56,,,,,,
+Meijer,"1015 E Pickard St, Mt Pleasant, MI 48858, United States",43.614212,-84.7648504,Antrim,0,6,0,0,1,2,1,0,12,0,0,0,0,0,3.56,,,,,,
+Meijer,"2805 W Cheesman Rd, Alma, MI 48801, United States",43.3983948,-84.6624102,Antrim,0,4,0,0,0,1,1,0,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"3700 17 Mile Rd NE, Cedar Springs, MI 49319, United States",43.217321,-85.5792888,Antrim,0,3,0,0,0,0,0,0,1,0,0,0,0,0,3.56,,,,,,
+Meijer Express Gas Station,"40 Meijer Dr, Gaylord, MI 49735, United States",45.0270784,-84.7230404,Antrim,0,3,0,0,0,0,1,0,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"550 Hull Rd, Mason, MI 48854, United States",42.5659498,-84.444688,Antrim,0,2,0,0,1,0,1,16,1,0,0,0,0,0,3.56,,,,,,
+Meijer,"2777 Airport Rd, Jackson, MI 49202, United States",42.2712674,-84.4505632,Antrim,0,5,0,0,0,0,2,0,9,0,0,0,0,0,3.56,,,,,,
+Meijer,"1167 E Clinton Trail, Charlotte, MI 48813, United States",42.5551697,-84.8142953,Antrim,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"22600 Allen Rd, Woodhaven, MI 48183, United States",42.1439784,-83.2300745,Antrim,0,18,0,0,0,0,0,68,4,0,0,0,0,0,3.56,,,,,,
+Meijer,"7157 E Saginaw St, East Lansing, MI 48823, United States",42.773573,-84.4178103,Antrim,0,0,0,0,0,1,0,0,2,0,0,0,0,0,3.56,,,,,,
+Meijer,"9701 Belleville Rd, Belleville, MI 48111, United States",42.2320789,-83.4831806,Antrim,0,5,0,5,0,0,0,17,2,0,0,0,0,0,3.56,,,,,,
+Meijer,"5019 Red Arrow Hwy, Stevensville, MI 49127, United States",42.0262862,-86.5160359,Antrim,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"14640 Pardee Rd, Taylor, MI 48180, United States",42.2003355,-83.2613078,Antrim,0,12,0,2,0,0,0,125,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"5645 Jackson Rd, Ann Arbor, MI 48103, United States",42.286165,-83.8419384,Antrim,0,6,0,0,0,0,0,5,3,0,0,0,0,0,3.56,,,,,,
+Meijer,"20401 Haggerty Rd, Township of Northville, MI 48167, United States",42.4356869,-83.4371012,Antrim,0,17,0,1,0,0,0,307,10,0,0,0,0,0,3.56,,,,,,
+Meijer,"3145 Ann Arbor-Saline Rd, Ann Arbor, MI 48103, United States",42.239608,-83.766545,Antrim,0,16,1,4,0,0,0,38,10,0,0,0,0,0,3.56,,,,,,
+Meijer,"5800 Gull Rd, Kalamazoo, MI 49048, United States",42.323266,-85.5153914,Antrim,0,12,0,0,0,0,0,75,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"6660 W Main St, Kalamazoo, MI 49009, United States",42.2985975,-85.6795672,Antrim,0,1,0,0,1,0,0,11,1,0,0,0,0,0,3.56,,,,,,
+Meijer,"225 Meijer Dr, Gaylord, MI 49735, United States",45.0254877,-84.7243762,Antrim,0,3,0,0,0,0,1,0,0,0,0,0,0,0,3.56,,,,,,
+Meijer,"595 N Pine Rd, Bay City, MI 48708, United States",43.5827165,-83.8388917,Arenac,0,6,0,0,0,0,0,2,0,0,0,0,0,0,3.39,,,,,,
+Meijer,"2980 Wilder Rd, Bay City, MI 48706, United States",43.6218004,-83.9341727,Arenac,0,4,0,0,0,0,0,0,1,0,0,0,0,0,3.39,,,,,,
+Meijer,"8400 Gratiot Rd, Saginaw, MI 48609, United States",43.4179573,-84.0796051,Arenac,0,4,0,0,2,0,0,1,0,0,0,0,0,0,3.39,,,,,,
+Meijer,"1801 Marketplace Dr SE, Caledonia, MI 49316, United States",42.8462516,-85.6193955,Arenac,0,6,0,0,0,0,0,111,3,0,0,0,0,0,3.39,,,,,,
+Meijer Express Gas Station,"1023 N Van Dyke Rd, Bad Axe, MI 48413, United States",43.8243782,-83.0013038,Arenac,0,3,0,0,0,0,0,0,1,0,0,0,0,0,3.39,,,,,,
+Meijer,"1997 E Beltline Ave NE, Grand Rapids, MI 49525, United States",42.9967323,-85.5942082,Arenac,0,26,0,0,0,1,0,8,1,0,0,0,0,0,3.39,,,,,,
+Meijer,"1006 N Van Dyke Rd, Bad Axe, MI 48413, United States",43.8237466,-83.0007968,Arenac,0,3,0,0,0,0,0,0,1,0,0,0,0,0,3.39,,,,,,
+Meijer Express Gas Station,"7140 Eastman Ave, Midland, MI 48642, United States",43.6626171,-84.2465328,Arenac,0,11,0,2,0,0,4,3,17,0,0,0,0,0,3.39,,,,,,
+Meijer Express Gas Station,"6700 Broadmoor Ave SE, Caledonia, MI 49316, United States",42.8423657,-85.5309757,Arenac,0,2,0,0,0,0,0,7,21,0,0,0,0,0,3.39,,,,,,
+Meijer,"3610 Marketplace Cir, Rochester Hills, MI 48309, United States",42.6434377,-83.2060397,Baraga,0,4,1,0,0,0,0,4,2,0,0,0,0,0,3.8,,,,,,
+Meijer,"49900 Grand River Ave, Wixom, MI 48393, United States",42.4977493,-83.5411911,Baraga,0,2,0,0,0,0,0,0,6,0,0,0,0,0,3.8,,,,,,
+Meijer,"2160 Hartland Rd, Hartland, MI 48353, United States",42.6384221,-83.7442177,Baraga,0,9,18,0,0,0,0,0,10,0,0,0,0,0,3.8,,,,,,
+Meijer,"3175 S Rochester Rd, Rochester Hills, MI 48307, United States",42.6344456,-83.1284868,Baraga,0,13,0,0,0,0,0,47,0,0,0,0,0,0,3.8,,,,,,
+Meijer,"37201 Warren Rd, Westland, MI 48185, United States",42.333412,-83.406013,Baraga,0,15,0,0,1,0,0,371,5,0,0,0,0,0,3.8,,,,,,
+Meijer,"6405 B Dr N, Battle Creek, MI 49014, United States",42.263198,-85.1734044,Barry,0,3,0,0,0,0,0,13,0,0,0,0,0,0,3.81,,,,,,
+Meijer,"11901 Fulton St E, Lowell Charter Township, MI 49331, United States",42.9333975,-85.3746319,Barry,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3.81,,,,,,
+Meijer,"2770 S State Rd, Ionia, MI 48846, United States",42.9463032,-85.0773741,Barry,0,2,0,0,0,1,4,0,2,0,0,0,0,0,3.81,,,,,,
+Meijer,"2191 W Columbia Ave, Battle Creek, MI 49015, United States",42.294587,-85.2360084,Barry,0,1,0,0,0,0,2,47,1,0,0,0,0,0,3.81,,,,,,
+Meijer,"5121 S Westnedge Ave, Portage, MI 49002, United States",42.2424882,-85.5873337,Barry,0,11,0,0,0,0,0,24,4,0,0,0,0,0,3.81,,,,,,
+Meijer,"5531 28th St Ct SE, Grand Rapids, MI 49512, United States",42.9159337,-85.532151,Barry,0,14,0,1,0,0,0,45,5,0,0,0,0,0,3.81,,,,,,
+Meijer,"5500 Clyde Park Ave SW, Wyoming, MI 49509, United States",42.8637909,-85.6811215,Barry,0,2,0,0,0,0,0,0,1,0,0,0,0,0,3.81,,,,,,
+Meijer,"730 E Saginaw Hwy, Grand Ledge, MI 48837, United States",42.738588,-84.741562,Barry,0,3,0,0,1,0,0,19,9,0,0,0,0,0,3.81,,,,,,
+Meijer,"12821 Crossover Dr, DeWitt, MI 48820, United States",42.8290801,-84.5371836,Barry,0,2,0,0,0,0,0,1,5,0,0,0,0,0,3.81,,,,,,
+Meijer,"3434 Century Center St SW, Grandville, MI 49418, United States",42.8798547,-85.748607,Barry,0,17,0,0,0,0,0,13,8,0,0,0,0,0,3.81,,,,,,
+Meijer,"2055 W Grand River Ave, Okemos, MI 48864, United States",42.7197222,-84.4252778,Barry,0,22,0,0,1,1,0,60,81,0,0,0,0,0,3.81,,,,,,
+Meijer,"606 S Greenville W Dr, Greenville, MI 48838, United States",43.1747604,-85.2776512,Barry,0,2,0,0,0,1,1,15,2,0,0,0,0,0,3.81,,,,,,
+Meijer,"2799 10 Mile Rd NE, Rockford, MI 49341, United States",43.1194779,-85.6019817,Barry,0,1,0,0,0,1,0,1,4,0,0,0,0,0,3.81,,,,,,
+Meijer,"550 Baldwin St, Jenison, MI 49428, United States",42.9049568,-85.7948913,Barry,0,2,0,1,0,0,1,43,20,0,0,0,0,0,3.81,,,,,,
+Meijer,"6200 S Pennsylvania Ave, Lansing, MI 48911, United States",42.6680054,-84.540846,Barry,0,14,0,0,0,0,0,7,10,0,0,0,0,0,3.81,,,,,,
+Meijer,"4075 32nd Ave, Hudsonville, MI 49426, United States",42.8428593,-85.863496,Barry,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3.81,,,,,,
+Meijer,"5125 W Saginaw Hwy, Lansing, MI 48917, United States",42.7392458,-84.6236254,Barry,0,16,1,0,1,0,0,149,38,0,0,0,0,0,3.81,,,,,,
+Meijer,"15000 US-31, Grand Haven, MI 49417, United States",43.0392583,-86.2175056,Barry,0,6,0,0,0,0,2,2,1,0,0,0,0,0,3.81,,,,,,
+Meijer,"1350 W Lake Lansing Rd, East Lansing, MI 48823, United States",42.7625,-84.5005555,Barry,0,14,0,1,0,0,0,167,20,0,0,0,0,0,3.81,,,,,,
+Meijer,"8850 Shaver Rd, Portage, MI 49024, United States",42.1885773,-85.6039598,Barry,0,0,0,0,0,0,0,29,3,0,0,0,0,0,3.81,,,,,,
+Meijer,"3333 E Michigan Ave, Jackson, MI 49202, United States",42.255201,-84.3597991,Barry,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.81,,,,,,
+Meijer,"620 E Chicago Rd, Coldwater, MI 49036, United States",41.937628,-84.9594768,Barry,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3.81,,,,,,
+Meijer,"2425 Alpine Ave NW, Grand Rapids, MI 49544, United States",43.0078252,-85.6910749,Barry,0,7,0,0,0,0,0,7,7,0,0,0,0,0,3.81,,,,,,
+Meijer,"3320 W Shr Dr, Holland, MI 49424, United States",42.8288269,-86.0909194,Barry,0,16,1,0,0,0,0,0,3,0,0,0,0,0,3.81,,,,,,
+Meijer,"1223 Phoenix St, South Haven, MI 49090, United States",42.4062846,-86.2566099,Barry,0,14,0,0,1,0,0,27,68,0,0,0,0,0,3.81,,,,,,
+Meijer,"15400 Waldron Way, Big Rapids, MI 49307, United States",43.6904411,-85.516716,Barry,0,1,0,1,0,0,0,16,0,0,0,0,0,0,3.81,,,,,,
+Meijer,"3757 Plainfield Ave NE, Grand Rapids, MI 49525, United States",43.0332866,-85.6281376,Barry,0,10,0,0,0,0,0,1,1,0,0,0,0,0,3.81,,,,,,
+Meijer,"11901 Fulton St E, Lowell, MI 49331, United States",42.9332556,-85.3746566,Barry,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3.81,,,,,,
+Meijer,"746 E 16th St, Holland, MI 49423, United States",42.7815232,-86.0755654,Barry,0,6,0,1,0,0,0,2,3,0,0,0,0,0,3.81,,,,,,
+Meijer,"408 W South St, Sturgis, MI 49091, United States",41.7866373,-85.4244934,Barry,0,1,0,0,1,1,0,1,4,0,0,0,0,0,3.81,,,,,,
+Meijer Express Gas Station,"2750 S State Rd, Ionia, MI 48846, United States",42.9481147,-85.0755104,Barry,0,2,0,0,0,1,4,0,2,0,0,0,0,0,3.81,,,,,,
+Meijer,"15 Caberfae Hwy, Manistee, MI 49660, United States",44.2673394,-86.2954866,Benzie,0,1,0,1,0,0,0,0,1,0,0,0,0,0,3.75,,,,,,
+Meijer Express Gas Station,"3965 US-31, Traverse City, MI 49684, United States",44.7435604,-85.6422922,Benzie,0,11,2,0,0,1,0,34,1,0,0,0,0,0,3.75,,,,,,
+Meijer,"3900 US-10, Ludington, MI 49431, United States",43.9583358,-86.3772048,Benzie,0,3,0,0,0,0,1,4,0,0,0,0,0,0,3.75,,,,,,
+Meijer,"1920 Pipestone Rd, Benton Harbor, MI 49022, United States",42.0827148,-86.4216183,Berrien,0,0,0,4,0,0,0,3,1,0,0,0,0,0,3.63,,,,,,
+Meijer Express Gas Station,"4931 Red Arrow Hwy, Stevensville, MI 49127, United States",42.0281796,-86.515443,Berrien,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3.63,,,,,,
+Meijer Express Gas Station,"2217 W Columbia Ave, Battle Creek, MI 49015, United States",42.2966504,-85.2377101,Calhoun,0,1,0,0,0,0,3,47,1,0,0,0,0,0,3.73,3.2,21.0,-2.0,20.0,6.0,8.0
+Meijer Express Gas Station,"6345 B Dr N, Battle Creek, MI 49014, United States",42.2616721,-85.1743075,Calhoun,0,3,0,0,0,0,0,13,0,0,0,0,0,0,3.73,3.2,21.0,-2.0,20.0,6.0,8.0
+Meijer Express Gas Station,"824 S US Hwy 131, Three Rivers, MI 49093, United States",41.9331334,-85.6524231,Cass,0,3,0,0,0,1,1,16,14,0,0,0,0,0,3.37,,,,,,
+Meijer,"1138 3 Mile Rd, Sault Ste. Marie, MI 49783, United States",46.4656245,-84.3876595,Cheboygan,0,2,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,
+Meijer,"2333 S Center Rd, Burton, MI 48519, United States",42.9937913,-83.6305099,Cheboygan,0,1,0,0,1,0,0,0,1,0,0,0,0,0,,,,,,,
+Meijer,"2333 S Center Rd, Burton, MI 48519, United States",42.9937913,-83.6305099,Cheboygan,0,1,0,0,1,0,0,0,1,0,0,0,0,0,,,,,,,
+Meijer,"G, 2333 S Center Rd, Burton, MI 48519, United States",42.9937913,-83.6305099,Clare,0,1,0,0,1,0,0,0,1,0,0,0,0,0,3.33,,,,,,
+Meijer,"G, 2333 S Center Rd, Burton, MI 48519, United States",42.9937913,-83.6305099,Clare,0,1,0,0,1,0,0,0,1,0,0,0,0,0,3.33,,,,,,
+Meijer,"3710 Dix Hwy, Lincoln Park, MI 48146, United States",42.2313254,-83.19611,Cheboygan,0,5,0,0,0,0,0,56,1,0,0,0,0,0,,,,,,,
+Meijer,"1703 Haggerty Rd, Commerce Charter Twp, MI 48390, United States",42.5475731,-83.4423379,Cheboygan,0,11,1,0,0,0,0,0,3,0,0,0,0,0,,,,,,,
+Meijer Express Gas Station,"1106 3 Mile Rd, Sault Ste. Marie, MI 49783, United States",46.4635853,-84.3866686,Chippewa,0,2,0,0,0,0,0,0,1,0,0,0,0,0,3.92,,,,,,
+Meijer,"205 S Range Rd, Marysville, MI 48040, United States",42.9087181,-82.4977874,Clare,0,4,0,0,0,0,0,0,0,0,0,0,0,0,3.33,,,,,,
+Meijer,"900 N Lapeer Rd, Oxford, MI 48371, United States",42.8406115,-83.2710286,Clare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.33,,,,,,
+Meijer,"1700 N Telegraph Rd, Monroe, MI 48162, United States",41.9448794,-83.3993871,Clare,0,10,0,0,0,0,0,4,6,0,0,0,0,0,3.33,,,,,,
+Meijer,"15055 Hall Rd, Shelby Twp, MI 48315, United States",42.6301282,-82.9767326,Clare,0,18,0,2,0,0,0,87,1,0,0,0,0,0,3.33,,,,,,
+Meijer,"4775 24th Ave, Fort Gratiot Twp, MI 48059, United States",43.0461111,-82.46,Clare,0,6,0,0,0,0,0,0,0,0,0,0,0,0,3.33,,,,,,
+Meijer,"45001 Ford Rd, Canton, MI 48187, United States",42.3193573,-83.4845161,Clare,0,20,0,0,0,0,0,53,3,0,0,0,0,0,3.33,,,,,,
+Meijer,"1005 E Thirteen Mile Rd, Madison Heights, MI 48071, United States",42.5229734,-83.0972961,Clare,0,12,0,1,1,0,0,80,3,0,0,0,0,0,3.33,,,,,,
+Meijer,"6001 Highland Rd, White Lake Charter Township, MI 48383, United States",42.6511837,-83.5314996,Clare,0,1,0,0,0,0,0,0,8,0,0,0,0,0,3.33,,,,,,
+Meijer,"2474 W Hill Rd, Flint, MI 48507, United States",42.946392,-83.7283822,Clare,0,5,0,0,0,0,1,0,6,0,0,0,0,0,3.33,,,,,,
+Meijer,"30800 Little Mack Ave, Roseville, MI 48066, United States",42.5234952,-82.9059331,Clare,0,13,0,0,0,0,0,18,21,0,0,0,0,0,3.33,,,,,,
+Meijer,"34835 Utica Rd, Fraser, MI 48026, United States",42.5511714,-82.9637671,Clare,0,4,0,0,1,0,0,8,4,0,0,0,0,0,3.33,,,,,,
+Meijer,"40445 S Groesbeck Hwy, Clinton Twp, MI 48036, United States",42.5965708,-82.9034509,Clinton,0,4,0,0,0,1,1,8,0,0,0,0,0,0,4.13,,,,,,
+Meijer,"3883 E Grand River Ave, Howell, MI 48843, United States",42.5901834,-83.8768548,Crawford,0,5,0,0,0,0,0,18,6,0,0,0,0,0,3.65,,,,,,
+Meijer Express Gas Station,"3701 M-55, West Branch, MI 48661, United States",44.2759816,-84.2747219,Crawford,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.65,,,,,,
+Meijer,"1800 Holton Rd, North Muskegon, MI 49445, United States",43.2836138,-86.2205876,Dickinson,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4.3,,,,,,
+Meijer,"15375 24 Mile Rd, Macomb Township, MI 48042, United States",42.6872202,-82.9735696,Dickinson,0,1,0,0,0,0,0,0,4,0,0,0,0,0,4.3,,,,,,
+Meijer,"700 W Norton Ave, Muskegon, MI 49441, United States",43.1926956,-86.2616285,Dickinson,0,13,0,0,1,0,0,16,20,0,0,0,0,0,4.3,,,,,,
+Meijer,"100 Michigan St NE, Grand Rapids, MI 49503, United States",42.969485,-85.6649995,Dickinson,0,60,0,2,1,17,5,73,36,0,0,0,0,0,4.3,,,,,,
+Meijer,"15055 Hall Rd, Utica, MI 48315, United States",42.6295529,-82.9756643,Dickinson,0,18,0,2,0,0,0,87,1,0,0,0,0,0,4.3,,,,,,
+Meijer Express Gas Station,"1085 E Clinton Trail, Charlotte, MI 48813, United States",42.5535708,-84.8157301,Eaton,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3.85,2.88,9.0,3.0,8.0,4.0,1.0
+Meijer Express Gas Station,"740 E Saginaw Hwy, Grand Ledge, MI 48837, United States",42.7401586,-84.7405511,Eaton,0,6,0,0,1,0,0,20,9,0,0,0,0,0,3.85,2.88,9.0,3.0,8.0,4.0,1.0
+Meijer,"2591 E M 21, Corunna, MI 48817, United States",43.0018429,-84.1158384,Eaton,0,3,0,0,0,1,0,117,23,0,0,0,0,0,3.85,2.88,9.0,3.0,8.0,4.0,1.0
+Meijer,"4141 Morrish Rd, Swartz Creek, MI 48473, United States",42.9683953,-83.8273626,Genesee,0,0,0,0,1,0,0,0,22,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+Meijer,"8089 Lapeer Rd, Davison, MI 48423, United States",43.0144171,-83.5526638,Genesee,0,4,0,0,0,0,0,149,0,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+Meijer,"4333 Pierson Rd # G, Flint, MI 48504, United States",43.0577332,-83.7654939,Genesee,0,2,0,0,0,0,0,0,1,0,0,0,0,0,4.12,2.72,34.0,-6.0,40.0,13.0,19.0
+Meijer,"1015 W Pickard St, Mt Pleasant, MI 48858, United States",43.6141629,-84.7655559,Gladwin,0,6,0,0,1,2,0,0,12,0,0,0,0,0,,,,,,,
+Meijer,"4677 Alpine Ave NW, Comstock Park, MI 49321, United States",43.048889,-85.6901268,Gladwin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+Meijer,"8650 W Grand River Ave, Brighton, MI 48116, United States",42.5387281,-83.7885083,Gogebic,0,15,0,2,1,0,0,0,4,0,0,0,0,0,3.67,,,,,,
+Meijer,"5956 Promenade Shops Blvd, Hillsdale, MI 49250, United States",41.9510377,-84.661931,Hillsdale,0,3,0,0,0,0,0,0,2,0,0,0,0,0,2.61,,,,,,
+Meijer,"3630 US-41, Marquette, MI 49855, United States",46.5529635,-87.4719174,Houghton,0,7,0,0,0,0,0,7,9,0,0,0,0,0,3.8,,,,,,
+Meijer Express Gas Station,"7149 E Saginaw St, East Lansing, MI 48823, United States",42.7713938,-84.4184926,Ingham,0,0,0,0,0,1,0,35,2,0,0,0,0,0,3.94,2.3,16.0,-1.0,10.0,3.0,4.0
+Meijer Express Gas Station,"6250 S Pennsylvania Ave, Lansing, MI 48911, United States",42.6674417,-84.5386417,Ingham,0,14,0,0,0,0,0,7,10,0,0,0,0,0,3.94,2.3,16.0,-1.0,10.0,3.0,4.0
+Meijer Express Gas Station,"5307 W Saginaw Hwy, Lansing, MI 48917, United States",42.7405902,-84.6247821,Ingham,0,16,1,0,1,0,0,144,34,0,0,0,0,0,3.94,2.3,16.0,-1.0,10.0,3.0,4.0
+Meijer Express Gas Station,"500 Hull Rd, Mason, MI 48854, United States",42.5672004,-84.4438516,Ingham,0,3,0,0,1,0,1,16,1,0,0,0,0,0,3.94,2.3,16.0,-1.0,10.0,3.0,4.0
+Meijer,"800 Brown Rd, Auburn Hills, MI 48326, United States",42.7056432,-83.2871766,Iosco,0,6,0,0,0,0,0,0,1,0,0,0,0,0,3.71,,,,,,
+Meijer,"500-698 S Van Etten St, Pinconning, MI 48650, United States",43.8518635,-83.9636073,Iosco,0,4,0,0,1,0,0,0,0,0,0,0,0,0,3.71,,,,,,
+Meijer,"4665 S Green Ave, Fremont, MI 49412, United States",43.4701759,-85.9815419,Iron,0,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+Meijer,"1555 Demille Rd, Lapeer, MI 48446, United States",43.041515,-83.325778,Iron,0,11,0,0,1,0,0,4,1,0,0,0,0,0,,,,,,,
+Meijer,"4200 Highland Rd, Waterford Twp, MI 48328, United States",42.653337,-83.3689422,Iron,0,4,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,,
+Meijer,"36865 26 Mile Rd, New Haven, MI 48048, United States",42.7225189,-82.7418136,Iron,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+Meijer,"1107 S Lapeer Rd, Lake Orion, MI 48360, United States",42.7660815,-83.2388282,Iron,0,8,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+Meijer,"25225 Schoenherr Rd, Warren, MI 48089, United States",42.4800943,-82.9885699,Iron,0,1,0,0,0,0,0,14,2,0,0,0,0,0,,,,,,,
+Meijer,"5411 28th St Ct SE, Grand Rapids, MI 49512, United States",42.9155199,-85.5335267,Kent,0,13,0,1,0,0,0,42,6,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"5531 28th St SE, Grand Rapids, MI 49512, United States",42.913739,-85.5319574,Kent,0,14,0,1,0,0,0,51,7,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer,"3434 Century Center St SW SW, Grandville, MI 49418, United States",42.8815352,-85.7459129,Kent,0,17,0,0,0,0,0,13,6,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"Knapps Corner, 1999 E Beltline Ave NE, Grand Rapids, MI 49525, United States",42.9968645,-85.5915965,Kent,0,26,0,0,0,1,0,6,1,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"2453 Alpine Ave NW, Grand Rapids, MI 49544, United States",43.0082599,-85.6892188,Kent,0,7,0,0,0,0,0,7,7,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"420 Stocking Ave NW Suite G, Grand Rapids, MI 49504, United States",42.9717125,-85.6845665,Kent,0,46,0,2,1,1,4,15,22,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"2900 Kalamazoo Ave SE, Grand Rapids, MI 49508, United States",42.910613,-85.627076,Kent,0,1,0,0,0,0,0,0,4,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"2988 Walker Ave NW, Grand Rapids, MI 49544, United States",43.0185169,-85.7238812,Kent,0,1,0,0,0,0,0,0,4,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"4580 Ivanrest Ave SW, Grandville, MI 49418, United States",42.8812502,-85.7425611,Kent,0,16,0,0,0,0,0,13,10,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"11853 Fulton St E, Lowell, MI 49331, United States",42.931156,-85.3750066,Kent,0,1,0,0,0,0,1,0,0,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"213 Wilson Ave NW, Grand Rapids, MI 49534, United States",42.9688199,-85.7768253,Kent,0,12,0,0,0,0,0,33,6,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"3650 17 Mile Rd NE, Cedar Springs, MI 49319, United States",43.2191257,-85.5803605,Kent,0,3,0,0,0,0,0,0,1,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer Express Gas Station,"2797 10 Mile Rd NE, Rockford, MI 49341, United States",43.1176216,-85.6008661,Kent,0,1,0,0,0,1,0,1,4,0,0,0,0,0,,2.56,92.0,-15.0,115.0,30.0,45.0
+Meijer,"149-101 W Front St, Traverse City, MI 49684, United States",44.7640604,-85.6241165,Leelanau,0,50,0,2,2,1,0,27,48,0,0,0,0,0,,,,,,,
+Meijer,"217 US-223, Adrian, MI 49221, United States",41.8762332,-84.0356064,Lenawee,0,14,0,0,0,0,0,0,2,0,0,0,0,0,,3.33,5.0,2.0,6.0,4.0,2.0
+Meijer,"8401 26 Mile Rd, Washington, MI 48094, United States",42.7157554,-83.0319671,Luce,0,7,0,0,0,0,0,20,1,0,0,0,0,0,4.3,,,,,,
+Meijer,"13000 Middlebelt Rd, Livonia, MI 48150, United States",42.3779874,-83.3301397,Luce,0,12,0,0,0,0,0,13,59,0,0,0,0,0,4.3,,,,,,
+Meijer,"2591 M-21, Corunna, MI 48817, United States",43.0015965,-84.1154752,Luce,0,3,0,0,0,1,0,123,23,0,0,0,0,0,4.3,,,,,,
+Meijer Express Gas Station,"2527 E M 21, Corunna, MI 48817, United States",42.9989072,-84.1162792,Luce,0,4,0,0,0,1,1,179,25,0,0,0,0,0,4.3,,,,,,
+Meijer,"36865 26 Mile Rd, Lenox, MI 48048, United States",42.7220452,-82.7415288,Luce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3,,,,,,
+Meijer Express Gas Station,"8396 Gratiot Rd, Saginaw, MI 48609, United States",43.4165007,-84.0776127,Mackinac,0,5,0,0,2,0,0,1,0,0,0,0,0,0,3.78,,,,,,
+Meijer,"27255 23 Mile Rd, Chesterfield, MI 48051, United States",42.6764755,-82.8357543,Macomb,0,7,0,1,0,0,0,23,4,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+Meijer,"36600 Van Dyke Ave, Sterling Heights, MI 48312, United States",42.5627301,-83.0264473,Macomb,0,7,0,0,0,0,0,3,1,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+Meijer,"29505 Mound Rd, Warren, MI 48092, United States",42.5098834,-83.049324,Macomb,0,1,0,0,0,2,0,1,4,0,0,0,0,0,4.02,2.02,119.0,-21.0,70.0,11.0,32.0
+Meijer Express Gas Station,"3960 US-10, Ludington, MI 49431, United States",43.9567937,-86.3786358,Mason,0,3,0,0,0,0,1,4,0,0,0,0,0,0,,2.9,26.0,-6.0,10.0,1.0,7.0
+Meijer Express Gas Station,"15375 Waldron Way, Big Rapids, MI 49307, United States",43.6884144,-85.515799,Mecosta,0,2,0,1,0,0,0,16,0,0,0,0,0,0,,2.7,1.0,-5.0,10.0,1.0,6.0
+Meijer,"6001 Highland Rd, White Lake, MI 48383, United States",42.651411,-83.5308897,Menominee,0,1,0,0,0,0,0,0,8,0,0,0,0,0,,,,,,,
+Meijer,"505 N 26th St suite a, Escanaba, MI 49829, United States",45.7654462,-87.0846575,Menominee,0,3,0,0,0,0,0,149,0,0,0,0,0,0,,,,,,,
+Meijer Express Gas Station,"8285 34 Rd, Cadillac, MI 49601, United States",44.2819082,-85.405727,Missaukee,0,4,0,0,0,0,1,0,1,0,0,0,0,0,3.55,,,,,,
+Meijer Express Gas Station,"415 S Greenville W Dr, Greenville, MI 48838, United States",43.176488,-85.2803306,Montcalm,0,2,0,0,0,1,1,15,2,0,0,0,0,0,3.83,2.3,8.0,-3.0,10.0,1.0,4.0
+Meijer Express Gas Station,"5326 Harvey St, Muskegon, MI 49444, United States",43.1555837,-86.2050913,Muskegon,0,12,0,0,0,0,1,0,18,0,0,0,0,0,,2.65,12.0,-3.0,30.0,8.0,11.0
+Meijer Express Gas Station,"650 W Norton Ave, Muskegon, MI 49441, United States",43.1910771,-86.2610929,Muskegon,0,13,0,0,1,0,0,16,19,0,0,0,0,0,,2.65,12.0,-3.0,30.0,8.0,11.0
+Meijer Express Gas Station,"7273 W 48th St, Fremont, MI 49412, United States",43.4678154,-85.9818348,Newaygo,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4.08,4.0,1.0,1.0,5.0,3.0,2.0
+Meijer,"5150 Coolidge Hwy, Royal Oak, MI 48073, United States",42.5387463,-83.1817991,Oakland,0,13,1,0,0,0,2,267,18,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+Meijer,"3175 S Rochester Rd, Rochester Hills, MI 48306, United States",42.6338534,-83.1283764,Oakland,0,13,0,0,0,0,0,47,0,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+Meijer Express Gas Station,"2754 S Adams Rd, Rochester Hills, MI 48309, United States",42.6405571,-83.2060504,Oakland,0,6,1,0,0,0,0,1,3,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+Meijer Express Gas Station,"1101 E Thirteen Mile Rd, Madison Heights, MI 48071, United States",42.5210675,-83.0951421,Oakland,0,9,0,0,1,0,0,52,3,0,0,0,0,0,3.72,2.35,70.0,-18.0,80.0,17.0,35.0
+Meijer,"17 Caberfae Hwy, Manistee, MI 49660, United States",44.2664743,-86.2965456,Oceana,0,1,0,1,0,0,0,0,1,0,0,0,0,0,,,,,,,
+Meijer,"16300 Fort St, Southgate, MI 48195, United States",42.1914139,-83.1845448,Oscoda,0,15,0,0,0,1,0,55,8,0,0,0,0,0,3.95,,,,,,
+Meijer Express Gas Station,"3228 W Shr Dr, Holland, MI 49424, United States",42.8268834,-86.0902808,Ottawa,0,17,0,0,0,0,0,0,3,0,0,0,0,0,,2.7,37.0,-8.0,56.0,16.0,24.0
+Meijer Express Gas Station,"14900 US-31, Grand Haven, MI 49417, United States",43.0382099,-86.2193507,Ottawa,0,6,0,0,0,0,2,2,1,0,0,0,0,0,,2.7,37.0,-8.0,56.0,16.0,24.0
+Meijer Express Gas Station,"2995 Gratiot Blvd, Marysville, MI 48040, United States",42.9107361,-82.4958546,St. Clair,0,6,0,0,0,0,0,0,0,0,0,0,0,0,,3.0,21.0,-2.0,10.0,3.0,5.0
+Meijer Express Gas Station,"4725 24th Ave, Fort Gratiot Twp, MI 48059, United States",43.0459056,-82.4579791,St. Clair,0,6,0,0,0,0,0,0,0,0,0,0,0,0,,3.0,21.0,-2.0,10.0,3.0,5.0
+Meijer Express Gas Station,"36689 26 Mile Rd, Lenox, MI 48048, United States",42.7210227,-82.7425376,St. Clair,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,3.0,21.0,-2.0,10.0,3.0,5.0
+Meijer Express Gas Station,"51095 Gratiot Ave, Chesterfield, MI 48051, United States",42.6761896,-82.8327126,St. Clair,0,8,0,1,0,0,0,23,4,0,0,0,0,0,,3.0,21.0,-2.0,10.0,3.0,5.0
+Meijer Express Gas Station,"1174 S Centerville Rd, Sturgis, MI 49091, United States",41.7870373,-85.4278011,St. Joseph,0,1,0,0,0,0,0,1,4,0,0,0,0,0,,,,,,,
+Meijer,"800 S US Hwy 131 Ste A, Three Rivers, MI 49093, United States",41.934064,-85.655071,St. Joseph,0,3,0,0,0,1,1,10,13,0,0,0,0,0,,,,,,,
+Meijer Express Gas Station,"1515 Demille Rd, Lapeer, MI 48446, United States",43.0428124,-83.3245142,Sanilac,0,11,0,0,1,0,0,4,1,0,0,0,0,0,,,,,,,
+Meijer,"26100 Vreeland Rd, Flat Rock, MI 48134, United States",42.1101583,-83.2896231,Sanilac,0,6,0,0,1,0,0,32,1,0,0,0,0,0,,,,,,,
+Meijer Express Gas Station,"1235 Irish Rd Trail, Davison, MI 48423, United States",43.0131028,-83.5547639,Sanilac,0,4,0,0,0,0,0,118,0,0,0,0,0,0,,,,,,,
+Meijer Express Gas Station,"9517 Birch Run Rd, Birch Run, MI 48415, United States",43.2508832,-83.7654838,Tuscola,0,8,0,1,0,0,0,0,2,0,0,0,0,0,,,,,,,
+Meijer Express Gas Station,"521 N Pine Rd, Bay City, MI 48708, United States",43.580492,-83.8378823,Tuscola,0,4,0,0,0,0,0,2,0,0,0,0,0,0,,,,,,,
+Meijer Express Gas Station,"5671 Jackson Rd, Ann Arbor, MI 48103, United States",42.287728,-83.8420591,Washtenaw,0,6,0,0,0,0,0,5,3,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+Meijer Express Gas Station,"3995 Carpenter Rd, Ypsilanti, MI 48197, United States",42.2314156,-83.679345,Washtenaw,0,7,0,0,0,0,0,44,7,0,0,0,0,0,3.5,2.0,19.0,-4.0,20.0,2.0,6.0
+Meijer,"1475 E Jefferson Ave, Detroit, MI 48207, United States",42.3343963,-83.0326004,Wayne,0,82,4,6,3,0,0,143,125,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
+Meijer Express Gas Station,"1231 Eight Mile Rd, Detroit, MI 48203, United States",42.4461258,-83.1181549,Wayne,0,6,0,0,0,0,0,3,22,0,0,0,0,0,4.04,2.42,143.0,-30.0,100.0,22.0,52.0
