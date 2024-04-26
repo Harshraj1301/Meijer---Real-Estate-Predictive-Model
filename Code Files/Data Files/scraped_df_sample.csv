@@ -1,0 +1,6 @@
+Latitude,Longitude,Visits,Grocery_Stores_1mile,Food_Outlets_1mile,Educational_Institutions_1mile,Residential_Housing_1mile,Commercial_Housing_1mile,Fuel_Stations_Car_Wash_1mile,Hospitals_3miles,Apparels_3miles,Tourist_Destinations_5miles,Hotels_5miles,Airports_5miles,Nearest Motorway Entrance Lat,Nearest Motorway Entrance Lon,Driving Distance to Nearest Motorway,Duration to Nearest Motorway,Traffic (AADT)
+42.9966672,-85.59439066,54697,5,35,11,8,1,4,17,0,4,3,7,42.988574,-85.604723,1.8 mi,4 mins,13114.0
+42.24244151,-85.58724579,38199,8,24,5,24,4,6,7,9,4,2,7,42.2377116,-85.5895921,0.6 mi,3 mins,32726.0
+42.08203304,-86.42199087,30639,10,3,1,3,1,7,2,1,0,5,4,42.0787556,-86.4181614,0.5 mi,2 mins,8477.0
+42.25473373,-84.35960021,35253,4,5,0,0,1,2,10,3,0,0,4,42.2550533,-84.3569338,0.4 mi,2 mins,5913.0
+41.63121453,-87.92778295,24456,7,28,1,4,1,6,4,1,2,1,1,41.5519999,-87.9099392,14.7 mi,18 mins,1183.0
