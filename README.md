@@ -2,7 +2,6 @@
 
 This project presents a comprehensive study on developing a predictive analytics model to identify the most profitable locations for new convenience store outlets within a large retail chain. It incorporates both proprietary data from the retail chain and public domain data, including demographic insights and competitor analysis.
 
-**GitHub URL:** [Add your GitHub repository URL here]
 
 ## Table of Contents
 - [Project Overview](#project-overview)
